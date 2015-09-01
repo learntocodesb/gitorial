@@ -3,7 +3,7 @@
 ## Instructions
 Follow these one step at a time, swapping in a new driver and navigator each time.
 
-Before moving on to the next step,
+Before moving on to each next step,
 
 1. Review what's new (`git status`)
 2. Refactor if needed
